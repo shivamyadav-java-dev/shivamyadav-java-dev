@@ -1,35 +1,145 @@
-<h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
-<h3 align="center">A passionate Full Stack Java developer from India</h3>
+ <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
+<h3 align="center">Full Stack Java Developer | Spring Boot | AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamyadav-java-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shivamyadav-java-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamyadav-java-dev" alt="shivamyadav-java-dev" /></a> </p>
-
-- 🔭 I’m currently working on [AI Powered Conversational Companion Plateform](https://github.com/shivamyadav-java-dev/AI-Powered-Conversational-Companion-Platform)
-
-- 🌱 I’m currently learning **Spring boot**
-
-- 👯 I’m looking to collaborate on [AI Powered Conversational Companion Plateform](https://github.com/shivamyadav-java-dev/AI-Powered-Conversational-Companion-Platform)
-
-- 🤝 I’m looking for help with [AI Powered Conversational Companion Plateform](https://github.com/shivamyadav-java-dev/AI-Powered-Conversational-Companion-Platform)
-
-- 💬 Ask me about **Full Stack Java Dev**
-
-- 📫 How to reach me **sky9555871373@gmail.com**
-
-- ⚡ Fun fact **I am a Full Stack Developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivam-yadav-java-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-yadav-java-dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivamyadav-java" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamyadav-java" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/shivamyadav-java-dev">
+    <img src="https://komarev.com/ghpvc/?username=shivamyadav-java-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/shivamyadav-java-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/shivamyadav-java-dev?label=Followers&style=flat&logo=github" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/shivamyadav-java-dev?tab=repositories">
+    <img src="https://img.shields.io/github/repos/shivamyadav-java-dev?label=Public%20Repositories&logo=github&style=flat" alt="Public repositories" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/shivamyadav-java-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+useful+software;Java+%7C+Spring+Boot+%7C+Full+Stack;Exploring+AI-powered+applications;Learning%2C+Building%2C+Improving" alt="Typing introduction" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamyadav-java-dev&show_icons=true&locale=en&layout=compact" alt="shivamyadav-java-dev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamyadav-java-dev&show_icons=true&locale=en" alt="shivamyadav-java-dev" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamyadav-java-dev&" alt="shivamyadav-java-dev" /></p>
+- 🎓 B.Tech Computer Science and Engineering student from India.
+- 💻 Interested in Full Stack Java Development and software engineering.
+- 🌱 Currently learning **Spring Boot** and strengthening my backend development skills.
+- 🤖 Building AI-powered applications and exploring RAG-based solutions.
+- 🚀 Working on [AI Powered Conversational Companion Platform](https://github.com/shivamyadav-java-dev/AI-Powered-Conversational-Companion-Platform).
+- 🤝 Open to collaboration, learning opportunities, and meaningful open-source projects.
+- 📫 Email: **[sky9555871373@gmail.com](mailto:sky9555871373@gmail.com)**
+
+---
+
+## 🛠️ Languages and Technologies
+
+<p align="center">
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" /></a>
+  <a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" height="45" alt="Kafka" /></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="Kubernetes" /></a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">🤖 AI Powered Conversational Companion Platform</h3>
+      <p align="center">
+        An AI-focused project exploring conversational applications.
+      </p>
+      <p align="center">
+        <a href="https://github.com/shivamyadav-java-dev/AI-Powered-Conversational-Companion-Platform">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamyadav-java-dev&repo=AI-Powered-Conversational-Companion-Platform&theme=tokyonight&hide_border=true" alt="AI Powered Conversational Companion Platform repository card" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/shivamyadav-java-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-More%20Projects-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Explore more projects" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamyadav-java-dev&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadav-java-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com/?user=shivamyadav-java-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/shivamyadav-java-dev">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamyadav-java-dev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  </a>
+</p>
+
+### 🟩 Contribution Heatmap
+
+<p align="center">
+  <a href="https://github.com/shivamyadav-java-dev">
+    <img width="100%" src="https://ghchart.rshah.org/36BCF7/shivamyadav-java-dev" alt="GitHub contribution calendar heatmap" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=shivamyadav-java-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shivam-yadav-java-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/shivamyadav-java">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:sky9555871373@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  💡 <i>"Consistency beats intensity. Keep learning, keep building, and keep improving."</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my work interesting, consider exploring my repositories and connecting with me!
+</p>
